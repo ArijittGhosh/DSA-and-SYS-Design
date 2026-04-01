@@ -199,9 +199,9 @@ Please create a pull request with:
 
 ## Contact
 
-* LinkedIn: `[Your LinkedIn URL]`
-* GitHub: `[Your GitHub Profile URL]`
-* Email: `your.email@example.com`
+* LinkedIn: `www.linkedin.com/in/arijit-ghosh-020222193`
+* GitHub: `https://github.com/ArijittGhosh`
+* Email: `ga15091998@gmail.com`
 
 ---
 
